@@ -1,0 +1,19 @@
+{
+  "name": "quotes",
+  "version": "1.0.0",
+  "description": "Задание: 1. Поднять легкий енд-поинт на (твой_яп: JS или PHP) для получения биржевого курса валют (евро,  доллар, возвращает ответ в json) с moex.com (с авторизацией) 2. Оформить все в докер контейнер и залить на гит/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BewitchedBySycorax/quotes.git"
+  },
+  "author": "Aleksei Voitovskii <al.voitovskii@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BewitchedBySycorax/quotes/issues"
+  },
+  "homepage": "https://github.com/BewitchedBySycorax/quotes#readme"
+}
